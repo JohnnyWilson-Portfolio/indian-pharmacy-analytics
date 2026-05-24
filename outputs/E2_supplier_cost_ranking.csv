@@ -1,0 +1,31 @@
+medicine_id,name,supplier_name,unit_cost,lead_time_days,cost_rank,speed_rank
+4453,Acestine AB Tablet,Rai LLC Pharma,95.96,10,1,2
+4453,Acestine AB Tablet,"Chaudry, Chahal and Sami Pharma",116.25,16,2,3
+4453,Acestine AB Tablet,Apte-Contractor Pharma,140.46,3,3,1
+24709,Aclomas SP 100mg/325mg/15mg Tablet,"Bala, Issac and Saini Pharma",25.73,11,1,1
+24709,Aclomas SP 100mg/325mg/15mg Tablet,Bhatti-Kakar Pharma,31.9,26,2,3
+24709,Aclomas SP 100mg/325mg/15mg Tablet,Buch-Kaul Pharma,33.12,25,3,2
+30606,Bambudil 20mg Tablet,Sidhu-Wadhwa Pharma,25.22,9,1,2
+30606,Bambudil 20mg Tablet,Balan Inc Pharma,29.52,6,2,1
+30606,Bambudil 20mg Tablet,Patla-Gaba Pharma,40.55,14,3,3
+88865,Fylex LM 10mg/5mg/100mg Tablet,Batta Inc Pharma,48.31,3,1,1
+88865,Fylex LM 10mg/5mg/100mg Tablet,"Rastogi, Pathak and Kanda Pharma",50.69,16,2,3
+88865,Fylex LM 10mg/5mg/100mg Tablet,Kale LLC Pharma,88.63,6,3,2
+161537,Notriax 1000mg Injection,Naik Group Pharma,31.33,24,1,3
+161537,Notriax 1000mg Injection,"Chaudry, Chahal and Sami Pharma",35.89,15,2,1
+161537,Notriax 1000mg Injection,Sen PLC Pharma,37.67,23,3,2
+165126,Oxicil-CV 625 Tablet,"Murty, Kala and Tata Pharma",99.54,11,1,2
+165126,Oxicil-CV 625 Tablet,Memon Group Pharma,125.51,22,2,3
+165126,Oxicil-CV 625 Tablet,Chanda Group Pharma,132.55,8,3,1
+171897,Oflogl 50mg Oral Suspension,"Murty, Kala and Tata Pharma",15.68,16,1,2
+171897,Oflogl 50mg Oral Suspension,Kale LLC Pharma,16.85,6,2,1
+171897,Oflogl 50mg Oral Suspension,"Sunder, Biswas and Walia Pharma",18.1,24,3,3
+175866,Propain Tablet,Pant-Kadakia Pharma,4.53,3,1,1
+175866,Propain Tablet,"Choudhury, Bakshi and Maharaj Pharma",5.78,20,2,3
+175866,Propain Tablet,"Issac, Dua and Prakash Pharma",7.51,6,3,2
+224189,Tobrox FM Eye Drop,"Issac, Dua and Prakash Pharma",43.93,26,1,3
+224189,Tobrox FM Eye Drop,Dutta Ltd Pharma,75.16,13,2,2
+224189,Tobrox FM Eye Drop,"Konda, Gade and Shere Pharma",81.35,6,3,1
+242090,W Cold Tablet,Apte-Contractor Pharma,21.53,14,1,1
+242090,W Cold Tablet,"Boase, Bath and Kari Pharma",29.58,15,2,3
+242090,W Cold Tablet,Naik Group Pharma,36.54,14,3,1

@@ -1,0 +1,51 @@
+name,warehouse_location,stock_quantity,reorder_level,expiry_date,days_to_expiry,value_at_risk_inr
+Eylea 40mg/ml Injection,Delhi-WH,475,147,2026-08-08,75,26929175.0
+Tenecterel 40mg Injection Kit,Mumbai-WH,585,166,2026-06-08,14,26091000.0
+Dacoplice 15mg Tablet,Mumbai-WH,489,145,2026-06-23,29,21760500.0
+Tarceva 100mg TABLET,Delhi-WH,550,57,2026-07-16,52,19497500.0
+Xgeva Solution for Injection,Chennai-WH,548,167,2026-06-10,16,15775276.0
+Arbitus Tablet,Kolkata-WH,399,162,2026-05-27,2,15760500.0
+Sprycel 20mg Tablet,Delhi-WH,189,94,2026-07-21,57,15652980.0
+Teceris Injection,Bangalore-WH,484,181,2026-08-11,78,15429436.0
+Imfinzi Injection,Kolkata-WH,326,60,2026-06-24,30,14833000.0
+Sofab LP Tablet,Mumbai-WH,547,140,2026-08-07,74,13675000.0
+X Mab 500mg Injection,Mumbai-WH,397,98,2026-07-24,60,13469284.99
+Tarceva 150mg Tablet,Bangalore-WH,332,89,2026-08-03,70,13379600.0
+Abiracure Tablet,Bangalore-WH,424,154,2026-07-22,58,13218200.0
+Abevmy 400mg Injection,Bangalore-WH,371,132,2026-06-20,26,13029520.0
+Lynparza 150mg Tablet,Delhi-WH,263,88,2026-06-06,12,11509143.0
+Temozion 250mg Capsule,Bangalore-WH,545,68,2026-07-23,59,11445000.0
+Zoladex LA 10.8mg Injection,Delhi-WH,390,156,2026-06-04,10,11267100.0
+Pegasys 180mcg Injection,Mumbai-WH,589,135,2026-05-26,1,10719800.0
+Mirel 18mg Powder for Injection,Mumbai-WH,483,194,2026-07-12,48,10592793.75
+Campto 100mg Injection,Kolkata-WH,521,127,2026-06-17,23,10393950.0
+Emzolam 250mg Capsule,Bangalore-WH,483,170,2026-07-04,40,9848853.0
+Temopro 250mg Capsule,Kolkata-WH,469,123,2026-07-29,65,9264246.11
+Hepcinat Plus 60mg/400mg Tablet,Bangalore-WH,524,152,2026-08-20,87,9170000.0
+Novotaxel 120 Solution for Infusion,Mumbai-WH,508,139,2026-06-14,20,9144000.0
+Valcyte 450mg Tablet,Kolkata-WH,225,57,2026-08-19,86,9000000.0
+Docetec 120mg Injection,Kolkata-WH,576,133,2026-07-07,43,8807040.0
+Degalix 120 Injection,Delhi-WH,507,93,2026-08-07,74,8669700.0
+Temotrust 250mg Capsule,Delhi-WH,383,133,2026-05-31,6,8166980.93
+Eribilin Injection,Mumbai-WH,417,63,2026-07-09,45,8131500.0
+Fulvenat 250mg Injection,Kolkata-WH,450,178,2026-06-10,16,8100000.0
+Hertraz 150mg Injection,Chennai-WH,413,66,2026-06-04,10,8053500.0
+Leuprosta Depot 22.5mg Injection,Mumbai-WH,457,187,2026-07-06,42,7683084.0
+Everotas 5mg Tablet,Chennai-WH,537,122,2026-08-17,84,7671426.27
+Bevarest 100mg Injection,Bangalore-WH,576,106,2026-07-17,53,7616448.0
+Cabazirix 60mg Injection,Delhi-WH,385,143,2026-06-13,19,7419831.65
+Xovoltib 50mg Tablet,Mumbai-WH,446,66,2026-07-21,57,7366582.0
+Velix 30mg Injection,Mumbai-WH,252,97,2026-06-24,30,7217758.8
+Asponet 50 Injection,Chennai-WH,567,83,2026-08-19,86,7144200.0
+Norvelzo 3.5mg Injection,Kolkata-WH,456,87,2026-07-06,42,7047480.0
+Eprex 40000IU/0.4ml Injection,Kolkata-WH,479,60,2026-06-17,23,6595830.0
+Degalix 80 Injection,Kolkata-WH,458,87,2026-07-27,63,6595200.0
+Pomalid 4mg Capsule,Mumbai-WH,395,133,2026-06-23,29,6298764.8
+Luprodex 11.25mg Injection,Delhi-WH,563,98,2026-07-25,61,6207075.0
+Docepar 80mg Injection,Delhi-WH,580,112,2026-08-21,88,6206000.0
+Bortetrust 2 Injection,Bangalore-WH,494,74,2026-08-21,88,6174629.5
+Interiglin 0.75mg/ml Infusion,Delhi-WH,565,97,2026-06-01,7,6136640.15
+Fostirel 1200IU Injection,Delhi-WH,358,77,2026-07-26,62,6086000.0
+Adoxi 80mg Injection Combipack,Bangalore-WH,555,146,2026-06-29,35,6049500.0
+Paclitax 300mg Injection,Bangalore-WH,509,147,2026-07-20,56,5853500.0
+Sibatax 260mg Injection,Delhi-WH,532,136,2026-06-15,21,5740280.0

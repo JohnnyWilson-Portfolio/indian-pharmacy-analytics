@@ -1,0 +1,51 @@
+medicine_id,name,manufacturer_name,warehouse_location,stock_quantity,reorder_level,units_short
+42655,Colispas Forte 20 mg/500 mg Tablet,BestoChem Formulations  India  Ltd,Delhi-WH,0,199,199
+198375,Rikiclav LB 500mg/125mg Tablet,Biorika Healthcare,Chennai-WH,0,199,199
+20140,Acerob D 30mg/20mg Tablet SR,Proceed Formulations,Kolkata-WH,1,199,198
+64449,Dicoliv S 50 mg/10 mg Tablet,Ind Swift Laboratories Ltd,Kolkata-WH,1,199,198
+12212,A Ret TZ Gel,A. Menarini India Pvt Ltd,Kolkata-WH,2,199,197
+44492,Cilnisafe 10mg Tablet,El-Dorado Bio-Tech Pvt Ltd,Chennai-WH,1,198,197
+47419,Cilnimust 10mg Tablet,Tas Med India Pvt Ltd,Bangalore-WH,0,197,197
+55952,Curetrax SS 250mg/125mg Injection,Cure Quick Pharmaceuticals,Mumbai-WH,0,197,197
+146280,Mefzest DS Oral Suspension,Aerozest Life Science,Kolkata-WH,1,198,197
+220352,Tzine 10mg Tablet,Health Care Formulations Pvt Ltd,Delhi-WH,0,197,197
+242653,Winfex 100mg Dry Syrup,Sunwin Healthcare,Kolkata-WH,1,198,197
+46302,Clarimox CV Dry Syrup,Clarix Healthcare,Delhi-WH,1,197,196
+76708,Emoz 0.1% Cream,Mednova Laboratories,Kolkata-WH,3,199,196
+88211,Fortagin Tablet,Splendid Pharmaceuticals,Chennai-WH,3,199,196
+127470,Loftypred 80mg Injection,Ridhima Biocare,Bangalore-WH,0,196,196
+150524,Neurocetam Plus Tablet,Micro Labs Ltd,Mumbai-WH,2,198,196
+158360,Neufix 50mg Dry Syrup,Novique Life Sciences,Kolkata-WH,0,196,196
+167657,Opthomycetin Eye Drop,Optho Remedies Pvt Ltd,Mumbai-WH,1,197,196
+217361,Telmiget CT 40mg/12.5mg Tablet,Lividus Pharmaceuticals Pvt Ltd,Chennai-WH,1,197,196
+220062,Tenesidh-M500 Tablet,Sidhbali Formulations,Chennai-WH,3,199,196
+228457,Ticozid 250mg Injection,Vistica Life Sciences,Bangalore-WH,2,198,196
+228984,Topod Dry Syrup,Toubib Pharma Private Limited,Delhi-WH,2,198,196
+232837,Ultranim MP Oral Suspension,Radico Remedies,Mumbai-WH,1,197,196
+247053,Ziglip-M 50/500 Tablet,Prochem Bioceuticals Pvt. Ltd.,Bangalore-WH,2,198,196
+4191,Alve LC 5mg/10mg Tablet,Dr. DeFelice Health Care,Kolkata-WH,1,196,195
+49899,Clavxime 200mg/125mg Tablet,Riki Therapeutics,Chennai-WH,0,195,195
+52510,Cadros F 160mg/10mg Tablet,Caddes Life Sciences,Bangalore-WH,2,197,195
+95295,Gonal-F 900IU Injection,Merck Ltd,Mumbai-WH,2,197,195
+95974,Galvamark Met 1000mg/50mg Tablet,Glenmark Pharmaceuticals Ltd,Mumbai-WH,2,197,195
+99563,Gometh P 1500mcg/75mg Tablet SR,Vavisto Biotech,Delhi-WH,0,195,195
+101273,Gericlav Injection,Gerrysun Pharmaceuticals Pvt Ltd,Chennai-WH,3,198,195
+122579,Lmx Forte Syrup,Cadila Pharmaceuticals Ltd,Chennai-WH,3,198,195
+146288,Moxirid CV 500mg/125mg Tablet,Trulip Pharma,Chennai-WH,1,196,195
+203983,Sherimont-L Tablet,Sherim Squibss,Kolkata-WH,2,197,195
+223996,Telmicool AM 40mg/5mg Tablet,Sanomed Health Care,Mumbai-WH,3,198,195
+241889,Wilcef S 1000mg/500mg Injection,Wilshire  Pharmaceuticals Inc,Delhi-WH,1,196,195
+245410,Xonacef 125mg Injection,Positive Medicare Pvt Ltd,Kolkata-WH,2,197,195
+5049,Amitryn 50 SR Tablet,KC Laboratories,Delhi-WH,0,194,194
+7605,Acnec PT 50 mg/500 mg Tablet,Acme Pharmaceutical,Chennai-WH,5,199,194
+37043,C Pent Eye Drop,Appasamy Ocular Device Pvt Ltd,Mumbai-WH,4,198,194
+43899,Cadzine M 5mg/10mg Tablet,Caddix Healthcare,Bangalore-WH,5,199,194
+66400,Diclodrop 75mg Injection,Dew Drops Lab,Bangalore-WH,0,194,194
+97156,Glimsay M2 Tablet PR,Meraki Health,Bangalore-WH,3,197,194
+100666,Gamcef 250mg Tablet,Innovexia Life Sciences Pvt Ltd,Kolkata-WH,4,198,194
+115948,Ketofast Cream,Cutis Dermacare,Bangalore-WH,5,199,194
+118323,Kabivec 4mg Injection,Fresenius Kabi India Pvt Ltd,Kolkata-WH,2,196,194
+121020,Lulizol Cream,KLM Laboratories Pvt Ltd,Chennai-WH,2,196,194
+196723,Reclaav Forte Suspension,Regalia Pharmaceuticals (I) Pvt Ltd,Delhi-WH,5,199,194
+202203,Stop EM 2mg/5ml Oral Solution,Winsome Laboratories Pvt Ltd,Kolkata-WH,1,195,194
+227383,Telo H 40mg/12.5mg Tablet,Lia Life Sciences Pvt Ltd,Kolkata-WH,5,199,194

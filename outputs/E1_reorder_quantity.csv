@@ -1,0 +1,31 @@
+name,stock_quantity,reorder_level,avg_daily_sales,lead_time_days,recommended_qty
+W Cold Tablet,17,107,14.49,14,304
+Giafix LB 200mg Tablet DT,29,118,11.12,17,266
+Fateko 400 Injection,126,196,11.36,10,193
+Mefnix DS Syrup,11,77,12.06,9,193
+Oflogl 50mg Oral Suspension,110,142,14.88,6,193
+Indgest 200mg Soft Gelatin Capsule,96,171,12.72,8,190
+Acloden P Oral Suspension,125,191,11.24,9,179
+Xiotac 100mg Tablet DT,4,146,8.84,12,168
+Brin 150mg Tablet,74,115,10.06,9,161
+Propain Tablet,24,156,15.65,3,156
+Some 40mg Capsule,85,145,9.15,10,155
+Biosone 100mg Injection,106,191,9.66,9,154
+Kriticef S 1000mg/500mg Injection,20,178,11.21,6,145
+Qupin 300mg Tablet SR,75,123,7.2,13,143
+Zunix 100mg Dry Syrup,7,146,6.22,16,143
+MEROMER 500MG INJECTION,58,165,6.17,16,141
+Acestine AB Tablet,135,174,13.9,3,139
+Fylex LM 10mg/5mg/100mg Tablet,86,135,13.86,3,138
+Cinnifit-D 15mg/20mg Tablet,62,91,5.5,18,137
+ES Pitant 150mg Injection,146,179,10.41,6,135
+Asgrel 150 Tablet,39,132,4.24,23,127
+Rezin LM 5 mg/10 mg Tablet,45,165,4.65,20,125
+Hynoz-P Nasal Drops,10,139,6.79,11,122
+Tefix 200mg Tablet DT,123,163,3.43,27,116
+Teldr 40mg Tablet,150,181,10.56,4,116
+Ritham 10mg Tablet,165,187,3.89,22,112
+Ulben 400mg Tablet,85,107,6.6,10,112
+Hiflox Plus 500mg/600mg Tablet,20,123,4.07,20,109
+Waladerm Cream,40,80,3.92,21,109
+Seafax 250mg/5ml Dry Syrup,16,156,9.84,4,108
