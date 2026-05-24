@@ -87,9 +87,8 @@ pharmacy-inventory/
 python -m venv .venv && source .venv/bin/activate
 pip install -r requirements.txt
 
-# 2. Make sure indian_medicine_data.csv is downloaded in your system
-#   
-#    (or edit CSV_PATH in scripts/02_load_data.py)
+# 2. The dataset ships with the repo at data/indian_medicine_data.csv (~30 MB).
+#    No download needed.
 
 # 3. Build the database (3 commands, in order)
 python scripts/01_create_schema.py     # creates data/pharmacy.db (empty)

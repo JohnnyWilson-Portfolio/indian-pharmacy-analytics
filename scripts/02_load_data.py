@@ -21,7 +21,11 @@ from faker import Faker
 # --- Paths ----------------------------------------------------------------
 PROJECT_ROOT = Path(__file__).resolve().parent.parent
 DB_PATH      = PROJECT_ROOT / "data" / "pharmacy.db"
-CSV_PATH     = Path("/Users/wilson/Downloads/indian_medicine_data.csv")
+# CSV ships with the repo (data/indian_medicine_data.csv, ~30 MB).
+# Falls back to ~/Downloads if you've moved it.
+CSV_PATH     = PROJECT_ROOT / "data" / "indian_medicine_data.csv"
+if not CSV_PATH.exists():
+    CSV_PATH = Path.home() / "Downloads" / "indian_medicine_data.csv"
 
 # --- Determinism ----------------------------------------------------------
 # Same seed → same fake data every run. Critical for a portfolio project so
